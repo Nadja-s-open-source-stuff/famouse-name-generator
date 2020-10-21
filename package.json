@@ -1,0 +1,28 @@
+{
+  "name": "@nadjaroemer/famous_name_generator",
+  "version": "1.0.0",
+  "description": "Funny way to spice up your console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadja-s-open-source-stuff/famouse-name-generator.git"
+  },
+  "keywords": [
+    "funny",
+    "console",
+    "log",
+    "famous",
+    "name",
+    "javascript",
+    "generator"
+  ],
+  "author": "Nadja Rømer Hesselbjerg nadja.kuti@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nadja-s-open-source-stuff/famouse-name-generator/issues"
+  },
+  "homepage": "https://github.com/Nadja-s-open-source-stuff/famouse-name-generator#readme"
+}
