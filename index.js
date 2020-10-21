@@ -9,11 +9,8 @@ function famousFunnyNames() {
     function shuffleNames(i) {
         return i[Math.floor(Math.random() * i.length)];
     }
-
     for (var i = 0; i < 1; i++) {
         console.log(shuffleNames(colors)+ shuffleNames(firstName) + reset + " " + shuffleNames(colors) + shuffleNames(lastName)+ reset);
     }
 }
-
-
 module.exports = famousFunnyNames();
