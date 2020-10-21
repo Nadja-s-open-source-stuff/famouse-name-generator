@@ -1,6 +1,6 @@
 {
   "name": "@nadjaroemer/famous_name_generator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Funny way to spice up your console log",
   "main": "index.js",
   "scripts": {
